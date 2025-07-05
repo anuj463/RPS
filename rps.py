@@ -34,9 +34,19 @@ while True:
     elif op1 ==4 and op2 ==4:
          print("Game Over")
          break
-    else: print("Invalid Option")
+    else:
+        print("Invalid Option")
+        break
 
 
+   
+   
+   
+   
+   
+   
+   
+   
     print("Player 1 score:", player1)
     print("Player 2 score:",player2)
 
